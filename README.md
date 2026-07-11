@@ -235,48 +235,9 @@ The visualization module:
 
 ---
 
-# 🔮 Future Improvements
-
-Possible improvements:
-
-- [ ] Interactive charge placement
-- [ ] GUI-based simulation
-- [ ] Real-time charge movement
-- [ ] Electric potential visualization
-- [ ] Equipotential lines
-- [ ] 3D electric field simulation
-- [ ] Animation support
-- [ ] Export simulation data
-
----
-
-# 🎓 Learning Objectives
-
-This project demonstrates:
-
-- Computational physics
-- Vector field simulation
-- Numerical calculations
-- Scientific visualization
-- Python engineering practices
-
----
-
 # 👨‍💻 Author
 
 **Sadra**
 
 Computer Engineering Student
 
-Interested in:
-
-- Computational physics
-- Machine learning
-- Scientific simulations
-- Software engineering
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
